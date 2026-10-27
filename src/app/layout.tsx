@@ -76,7 +76,7 @@ export const metadata: Metadata = {
   },
   verification: {
     google: process.env.GOOGLE_SITE_VERIFICATION,
-    // other: { "msvalidate.01": "0ECDDBF89F1D1C2D0BF1C87DF14AA40A" },
+    other: { "msvalidate.01": "0ECDDBF89F1D1C2D0BF1C87DF14AA40A" },
   },
 };
 
