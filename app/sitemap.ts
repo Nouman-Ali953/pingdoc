@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { SITE_URL } from "@/lib/site";
+import { SITE_URL } from "./lib/site";
 
 // Update this date whenever the homepage content changes (YYYY-MM-DD).
 const LAST_MODIFIED = new Date("2026-10-27");

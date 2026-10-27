@@ -1,6 +1,6 @@
 "use client";
 import { Fragment, useCallback, useEffect, useState } from "react";
-import type { Finding, Report } from "@/lib/types";
+import type { Finding, Report } from "../lib/types";
 import { track } from "@vercel/analytics";
 
 type Tick = { ms: number; ok: boolean };

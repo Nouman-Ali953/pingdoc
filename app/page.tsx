@@ -1,6 +1,6 @@
-import Checker from "@/components/Checker";
+import Checker from "./components/Checker";
 import Link from "next/link";
-import { SITE_NAME, SITE_URL } from "@/lib/site";
+import { SITE_NAME, SITE_URL } from "./lib/site";
 
 const CHECKS = [
   [
